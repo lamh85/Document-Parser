@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/lamh85/Document-Parser/issues"
   },
-  "homepage": "https://github.com/lamh85/Document-Parser#readme"
+  "homepage": "https://github.com/lamh85/Document-Parser#readme",
+  "dependencies": {
+    "pdf-parse": "^1.1.1"
+  }
 }
